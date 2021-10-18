@@ -12,6 +12,12 @@ I have specialized in Javascript(React), HTML 5, CSS 3
 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 12 mins    ████████████████████▓░░░░   82.76 % 
+CSS          7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+TypeScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+```
 <!--END_SECTION:waka-->
 ### 🏆 My Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=onedark&no-bg=false&count_private=true)](https://github.com/sharon-leshan/sharon-leshan)
