@@ -41,3 +41,5 @@ Markdown     3 mins          █░░░░░░░░░░░░░░░░
 ### Profile Visit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sharon-leshan.agency-site&left_color=green&right_color=red&theme=dark&title_color=009933)
+
+[![Image of https://github.com/sharon-leshan/sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter)
