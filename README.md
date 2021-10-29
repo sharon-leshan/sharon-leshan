@@ -37,7 +37,8 @@ CSV          1 min           ░░░░░░░░░░░░░░░░░
 
 [![Sharon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazyleshan&theme=dark&title_color=009933)](https://github.com/sharon-leshan/sharon-leshan)
 
-[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239/project/9689f3ff-dfec-4fd9-b38e-380180e25c44.svg)](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239/project/9689f3ff-dfec-4fd9-b38e-380180e25c44)
+[![wakatime](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a.svg)](https://wakatime.com/@f6d97325-e131-4c48-9dbc-46089cd0f41a)
+
 ### Profile Visit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sharon-leshan.agency-site&left_color=green&right_color=red&theme=dark&title_color=009933)
