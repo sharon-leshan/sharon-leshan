@@ -13,10 +13,10 @@ I have specialized in Javascript(React), HTML 5, CSS 3
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   24 hrs 29 mins  ██████████████████████▒░░   88.92 % 
-JSON         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript   27 hrs 5 mins   ██████████████████████▒░░   89.06 % 
+JSON         1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
