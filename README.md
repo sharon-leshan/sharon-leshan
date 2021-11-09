@@ -1,6 +1,6 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![portfolio.png](https://i.postimg.cc/hGRJnbMj/portfolio.png)](https://postimg.cc/JsK7cXfV)
+[![portfolio.png](https://i.postimg.cc/hGRJnbMj/portfolio.png)](https://maleo-portfolio.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
