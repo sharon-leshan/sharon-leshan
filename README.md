@@ -4,6 +4,13 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
+
+<h1>Check out: 
+  <a href="https://maleo-portfolio.netlify.app/" rel="noreferer noopener" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</h1>
 
 ## I'm Sharon Leshan
 I am a Fullstack Javascript Developer.
