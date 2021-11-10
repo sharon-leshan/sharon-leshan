@@ -33,6 +33,61 @@ HTML         44 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<!-- ## 
+▶ Sample Projects
+<table>
+  <tbody>
+  <tr>
+    <td>
+      <a href="">
+        <img width="300px" src="">
+      </a>
+    </td>
+    <td>
+      <a href=""></a>
+     </td>
+    <td>
+      <a href="">
+        <img width="300px" src="">
+      </a>
+    </td>
+    <td>
+      <a href=""></a>
+     </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="">
+          <img width="300px" src="">
+        </a>
+      </td>
+      <td>
+        <a href=""></a>
+       </td>
+      <td>
+        <a href="">
+          <img width="300px" src="">
+        </a>
+      </td>
+      <td>
+        <a href=""></a>
+       </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="">
+          <img width="300px" src="" alt="" />
+        </a>
+      </td>
+      <td>
+        <a href=""></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+ -->
+ 
+ 
 <h2 align="center">Connect Me</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/sharon-maleo/">
@@ -116,7 +171,11 @@ HTML         44 mins         ▓░░░░░░░░░░░░░░░░
 ![GitHub watchers](https://img.shields.io/github/watchers/sharon-leshan/sharon-leshan?style=social)
 
 
-
+## Contribution Graph
+<p>
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=sharon-leshan&theme=github" alt="Sharon Leshan" />
+</p> &nbsp;
+<br />
 
 ### 🏆 My Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=onedark&no-bg=false&count_private=true)](https://github.com/sharon-leshan/sharon-leshan)
