@@ -33,59 +33,40 @@ HTML         44 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!-- ## 
+## 
 ▶ Sample Projects
 <table>
   <tbody>
   <tr>
     <td>
-      <a href="">
-        <img width="300px" src="">
+      <a href="https://shazy-agency-site.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/vZRz2mcd/agency.png">
       </a>
     </td>
     <td>
-      <a href=""></a>
+      <a href="https://shazy-agency-site.netlify.app/">Agency Site</a>
      </td>
     <td>
-      <a href="">
-        <img width="300px" src="">
+      <a href="https://short-video-frontend.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/XJ1mLWct/short-video.png">
       </a>
     </td>
     <td>
-      <a href=""></a>
+      <a href="https://short-video-frontend.netlify.app/">Short Video Frontend</a>
      </td>
     </tr>
     <tr>
       <td>
-        <a href="">
-          <img width="300px" src="">
+        <a href="https://wrapper-maleo.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/P5H3mNnP/wrapper.png">
         </a>
       </td>
       <td>
-        <a href=""></a>
+        <a href="https://wrapper-maleo.netlify.app/">Wrapper Example</a>
        </td>
-      <td>
-        <a href="">
-          <img width="300px" src="">
-        </a>
-      </td>
-      <td>
-        <a href=""></a>
-       </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="">
-          <img width="300px" src="" alt="" />
-        </a>
-      </td>
-      <td>
-        <a href=""></a>
-      </td>
     </tr>
   </tbody>
 </table>
- -->
  
  
 <h2 align="center">Connect Me</h2>
