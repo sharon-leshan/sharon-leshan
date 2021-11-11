@@ -152,11 +152,11 @@ SCSS         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 ![GitHub watchers](https://img.shields.io/github/watchers/sharon-leshan/sharon-leshan?style=social)
 
 
-## Contribution Graph
+<!-- ## Contribution Graph
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=sharon-leshan&theme=github" alt="Sharon Leshan" />
 </p> &nbsp;
-<br />
+<br /> -->
 
 ### 🏆 My Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=onedark&no-bg=false&count_private=true)](https://github.com/sharon-leshan/sharon-leshan)
