@@ -37,8 +37,7 @@ JSON         1 hr 12 mins    █░░░░░░░░░░░░░░░░
 ▶ Sample Projects
 <table>
   <tbody>
-  <tr>
-    <td>
+     <td>
       <a href="https://shazy-agency-site.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/vZRz2mcd/agency.png">
       </a>
@@ -55,6 +54,25 @@ JSON         1 hr 12 mins    █░░░░░░░░░░░░░░░░
       <a href="https://short-video-frontend.netlify.app/">Short Video Frontend</a>
      </td>
     </tr>
+     <tr>
+    <td>
+      <a href="https://messaging-app-ui.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/50wF8vv8/messaging.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://messaging-app-ui.netlify.app/">Messaging UI</a>
+     </td>
+    <td>
+      <a href="https://maleo-dating-app.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/rwgP1nxN/dating.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://maleo-dating-app.netlify.app/">Dating App</a>
+     </td>
+    </tr>
+  <tr>
     <tr>
       <td>
         <a href="https://wrapper-maleo.netlify.app/">
