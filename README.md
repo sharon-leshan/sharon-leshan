@@ -86,6 +86,61 @@ Bash         43 mins         ▓░░░░░░░░░░░░░░░░
   </tbody>
 </table>
  
+ <br />
+ 
+ - Certifications
+ 
+ <table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="">
+          <img width="300px" src="https://i.postimg.cc/dV18pjVC/Hacker-Rank-Js-Certification.png">
+        </a>
+      </td>
+      <td>
+        <a href="">Verify</a>
+       </td>
+      <td>
+        <a href="">
+          <img width="300px" src="https://i.postimg.cc/BQNTmV4s/Hacker-Rank-Problem-Solving-Basic.png">
+        </a>
+      </td>
+      <td>
+        <a href="">Verify</a>
+       </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="">
+          <img width="300px" src="https://i.postimg.cc/7Yq1Mkvm/freecodecamp-rwd-certification.png">
+        </a>
+      </td>
+      <td>
+        <a href="">Verify</a>
+       </td>
+      <td>
+        <a href="">
+          <img width="300px" src="https://i.postimg.cc/2jQFZ5t1/freecodecamp-jads-certification.png">
+        </a>
+      </td>
+      <td>
+        <a href="">Verify</a>
+       </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="">
+          <img width="300px" src="https://i.postimg.cc/mkyYfd9Y/freecodecamp-frontend-libs-certification.png">
+        </a>
+      </td>
+      <td>
+        <a href="">Verify</a>
+       </td>
+      <td>
+    </tr>
+  </tbody>
+  </table>
  
 <h2 align="center">Contact Me</h2>
 <p align='center'>
