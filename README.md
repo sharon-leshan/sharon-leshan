@@ -37,7 +37,8 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
 ▶ Sample Projects
 <table>
   <tbody>
-     <td>
+    <tr>
+      <td>
       <a href="https://shazy-agency-site.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/vZRz2mcd/agency.png">
       </a>
