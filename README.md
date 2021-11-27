@@ -25,11 +25,11 @@ I have specialized in MERN Stack, HTML 5, CSS 3
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   23 hrs 17 mins  ████████████████████▒░░░░   81.03 % 
-SCSS         2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-JSON         1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JavaScript   19 hrs 45 mins  ████████████████████▒░░░░   81.08 % 
+SCSS         2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+JSON         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 
