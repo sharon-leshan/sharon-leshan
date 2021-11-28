@@ -25,11 +25,11 @@ I have specialized in MERN Stack, HTML 5, CSS 3
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   18 hrs 24 mins  ███████████████████░░░░░░   75.44 % 
-SCSS         2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-JSX          1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JavaScript   19 hrs 45 mins  ████████████████████▒░░░░   81.08 % 
+SCSS         2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+JSON         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -38,6 +38,14 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 <table>
   <tbody>
     <tr>
+    <td>
+        <a href="https://maleo-restaurant.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/dtTJcJMZ/restaurant.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://maleo-restaurant.netlify.app/">Restaurant E-commerce</a>
+       </td>
       <td>
       <a href="https://shazy-agency-site.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/vZRz2mcd/agency.png">
@@ -45,8 +53,10 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
     </td>
     <td>
       <a href="https://shazy-agency-site.netlify.app/">Agency Site</a>
-     </td>
-    <td>
+     </td>   
+    </tr>
+     <tr>
+      <td>
       <a href="https://short-video-frontend.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/XJ1mLWct/short-video.png">
       </a>
@@ -54,8 +64,6 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
     <td>
       <a href="https://short-video-frontend.netlify.app/">Short Video Frontend</a>
      </td>
-    </tr>
-     <tr>
     <td>
       <a href="https://messaging-app-ui.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/50wF8vv8/messaging.png">
@@ -64,7 +72,10 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
     <td>
       <a href="https://messaging-app-ui.netlify.app/">Messaging UI</a>
      </td>
-    <td>
+   </tr>
+  <tr>
+    <tr>
+     <td>
       <a href="https://maleo-dating-app.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/rwgP1nxN/dating.png">
       </a>
@@ -72,9 +83,6 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
     <td>
       <a href="https://maleo-dating-app.netlify.app/">Dating App</a>
      </td>
-    </tr>
-  <tr>
-    <tr>
       <td>
         <a href="https://wrapper-maleo.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/P5H3mNnP/wrapper.png">
@@ -83,6 +91,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://wrapper-maleo.netlify.app/">Wrapper Example</a>
        </td>
+        
     </tr>
   </tbody>
 </table>
