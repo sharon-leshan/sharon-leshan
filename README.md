@@ -65,12 +65,12 @@ SCSS         52 mins         █░░░░░░░░░░░░░░░░
       <a href="https://short-video-frontend.netlify.app/">Short Video Frontend</a>
      </td>
     <td>
-      <a href="https://messaging-app-ui.netlify.app/">
-        <img width="300px" src="https://i.postimg.cc/50wF8vv8/messaging.png">
+      <a href="https://messaging-app-mern-ffe37.web.app/">
+        <img width="300px" src="https://i.postimg.cc/P555Khvp/messaging2.png">
       </a>
     </td>
     <td>
-      <a href="https://messaging-app-ui.netlify.app/">Messaging UI</a>
+      <a href="https://messaging-app-mern-ffe37.web.app/">Messaging App</a>
      </td>
    </tr>
   <tr>
