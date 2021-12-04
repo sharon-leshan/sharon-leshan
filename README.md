@@ -90,8 +90,7 @@ SCSS         52 mins         █░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://wrapper-maleo.netlify.app/">Wrapper Example</a>
-       </td>
-        
+       </td>        
     </tr>
   </tbody>
 </table>
