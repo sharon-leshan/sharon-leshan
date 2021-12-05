@@ -40,33 +40,36 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
     <tr>
     <td>
         <a href="https://maleo-restaurant.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/dtTJcJMZ/restaurant.png">
+          <img width="300px" src="assests/Projects/restaurant.png">
         </a>
       </td>
       <td>
         <a href="https://maleo-restaurant.netlify.app/">Restaurant E-commerce</a>
        </td>
       <td>
+      <a href="https://maleo-dating-app.netlify.app/">Popular Social App</a>
+     </td>
+      <td>
+        <a href="https://popular-social-mern-a9128.web.app/">
+          <img width="300px" src="assests/Projects/social1.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://popular-social-mern-a9128.web.app/">Wrapper Example</a>
+       </td>  
+    </tr>
+     <tr>
+      <td>
       <a href="https://shazy-agency-site.netlify.app/">
-        <img width="300px" src="https://i.postimg.cc/vZRz2mcd/agency.png">
+        <img width="300px" src="assests/Projects/agency.png">
       </a>
     </td>
     <td>
       <a href="https://shazy-agency-site.netlify.app/">Agency Site</a>
-     </td>   
-    </tr>
-     <tr>
-      <td>
-      <a href="https://short-video-frontend.netlify.app/">
-        <img width="300px" src="https://i.postimg.cc/XJ1mLWct/short-video.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://short-video-frontend.netlify.app/">Short Video Frontend</a>
      </td>
     <td>
       <a href="https://messaging-app-ui.netlify.app/">
-        <img width="300px" src="https://i.postimg.cc/50wF8vv8/messaging.png">
+        <img width="300px" src="assests/Projects/messaging1.png">
       </a>
     </td>
     <td>
@@ -81,17 +84,16 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
       </a>
     </td>
     <td>
-      <a href="https://maleo-dating-app.netlify.app/">Dating App</a>
+      <a href="https://maleo-dating-app.netlify.app/">Popular Social App</a>
      </td>
       <td>
-        <a href="https://wrapper-maleo.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/P5H3mNnP/wrapper.png">
+        <a href="https://popular-social-mern-a9128.web.app/">
+          <img width="300px" src="assests/Projects/social1.png">
         </a>
       </td>
       <td>
-        <a href="https://wrapper-maleo.netlify.app/">Wrapper Example</a>
-       </td>
-        
+        <a href="https://popular-social-mern-a9128.web.app/">Wrapper Example</a>
+       </td>    
     </tr>
   </tbody>
 </table>
