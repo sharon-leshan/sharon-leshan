@@ -81,7 +81,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
       </a>
     </td>
     <td>
-     <a href="https://dating-app-mern-2da3b.web.app/">Dating Homemade</a>
+     <a href="https://dating-app-mern-2da3b.web.app/">Dating App</a>
     </td>
       <td>
       <a href="https://maleo-recipes-homemade.netlify.app/">
@@ -89,7 +89,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
       </a>
     </td>
     <td>
-     <a href="https://maleo-recipes-homemade.netlify.app/">Recipe App</a>
+     <a href="https://maleo-recipes-homemade.netlify.app/">Recipe Homemade</a>
     </td>   
     </tr>
     <tr>
