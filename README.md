@@ -25,11 +25,11 @@ I have specialized in MERN Stack, HTML 5, CSS 3
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   26 hrs 48 mins  ███████████████████░░░░░░   75.83 % 
-JSON         1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-CSS          1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-JSX          1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-SCSS         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JavaScript   19 hrs 45 mins  ████████████████████▒░░░░   81.08 % 
+SCSS         2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+JSON         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -65,12 +65,12 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
       <a href="https://short-video-frontend.netlify.app/">Short Video Frontend</a>
      </td>
     <td>
-      <a href="https://messaging-app-mern-ffe37.web.app/">
-        <img width="300px" src="https://i.postimg.cc/P555Khvp/messaging2.png">
+      <a href="https://messaging-app-ui.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/50wF8vv8/messaging.png">
       </a>
     </td>
     <td>
-      <a href="https://messaging-app-mern-ffe37.web.app/">Messaging App</a>
+      <a href="https://messaging-app-ui.netlify.app/">Messaging UI</a>
      </td>
    </tr>
   <tr>
@@ -90,7 +90,8 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://wrapper-maleo.netlify.app/">Wrapper Example</a>
-       </td>        
+       </td>
+        
     </tr>
   </tbody>
 </table>
@@ -104,7 +105,7 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
     <tr>
       <td>
         <a href="https://www.hackerrank.com/certificates/055e1dcd0a66">
-          <img width="300px" src="https://i.postimg.cc/dV18pjVC/Hacker-Rank-Js-Certification.png">
+          <img width="300px" src="assests/Certifications/HackerRank%20Js%20Certification.png">
         </a>
       </td>
       <td>
@@ -112,7 +113,7 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
        </td>
       <td>
         <a href="https://www.hackerrank.com/certificates/8d456c864dfe">
-          <img width="300px" src="https://i.postimg.cc/BQNTmV4s/Hacker-Rank-Problem-Solving-Basic.png">
+          <img width="300px" src="assests/Certifications/HackerRank%20Problem%20Solving(Basic).png">
         </a>
       </td>
       <td>
@@ -122,7 +123,7 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
      <tr>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/responsive-web-design">
-          <img width="300px" src="https://i.postimg.cc/7Yq1Mkvm/freecodecamp-rwd-certification.png">
+          <img width="300px" src="assests/Certifications/freecodecamp%20rwd%20certification.png">
         </a>
       </td>
       <td>
@@ -130,7 +131,7 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
        </td>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/javascript-algorithms-and-data-structures">
-          <img width="300px" src="https://i.postimg.cc/2jQFZ5t1/freecodecamp-jads-certification.png">
+          <img width="300px" src="assests/Certifications/freecodecamp%20jads%20certification.png">
         </a>
       </td>
       <td>
@@ -140,11 +141,19 @@ SCSS         46 mins         ▓░░░░░░░░░░░░░░░░
      <tr>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/front-end-development-libraries">
-          <img width="300px" src="https://i.postimg.cc/mkyYfd9Y/freecodecamp-frontend-libs-certification.png">
+          <img width="300px" src="assests/Certifications/freecodecamp%20frontend%20libs%20certification.png">
         </a>
       </td>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/front-end-development-libraries">Verify</a>
+       </td>
+       <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">
+          <img width="300px" src="assests/Certifications/TWD%20Workshop.jpeg">
+        </a>
+      </td>
+      <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">Verify</a>
        </td>
       <td>
     </tr>
