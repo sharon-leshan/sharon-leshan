@@ -105,7 +105,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
     <tr>
       <td>
         <a href="https://www.hackerrank.com/certificates/055e1dcd0a66">
-          <img width="300px" src="https://i.postimg.cc/dV18pjVC/Hacker-Rank-Js-Certification.png">
+          <img width="300px" src="assests/Certifications/HackerRank%20Js%20Certification.png">
         </a>
       </td>
       <td>
@@ -113,7 +113,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
        </td>
       <td>
         <a href="https://www.hackerrank.com/certificates/8d456c864dfe">
-          <img width="300px" src="https://i.postimg.cc/BQNTmV4s/Hacker-Rank-Problem-Solving-Basic.png">
+          <img width="300px" src="assests/Certifications/HackerRank%20Problem%20Solving(Basic).png">
         </a>
       </td>
       <td>
@@ -123,7 +123,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
      <tr>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/responsive-web-design">
-          <img width="300px" src="https://i.postimg.cc/7Yq1Mkvm/freecodecamp-rwd-certification.png">
+          <img width="300px" src="assests/Certifications/freecodecamp%20rwd%20certification.png">
         </a>
       </td>
       <td>
@@ -131,7 +131,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
        </td>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/javascript-algorithms-and-data-structures">
-          <img width="300px" src="https://i.postimg.cc/2jQFZ5t1/freecodecamp-jads-certification.png">
+          <img width="300px" src="assests/Certifications/freecodecamp%20jads%20certification.png">
         </a>
       </td>
       <td>
@@ -141,11 +141,19 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
      <tr>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/front-end-development-libraries">
-          <img width="300px" src="https://i.postimg.cc/mkyYfd9Y/freecodecamp-frontend-libs-certification.png">
+          <img width="300px" src="assests/Certifications/freecodecamp%20frontend%20libs%20certification.png">
         </a>
       </td>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/front-end-development-libraries">Verify</a>
+       </td>
+       <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">
+          <img width="300px" src="assests/Certifications/TWD%20Workshop.jpeg">
+        </a>
+      </td>
+      <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">Verify</a>
        </td>
       <td>
     </tr>
