@@ -74,7 +74,6 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
       <a href="https://messaging-app-ui.netlify.app/">Messaging UI</a>
      </td>
    </tr>
-  <tr>
     <tr>
      <td>
       <a href="https://dating-app-mern-2da3b.web.app/">
@@ -82,7 +81,7 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
       </a>
     </td>
     <td>
-     <a href="https://dating-app-mern-2da3b.web.app/">Dating App</a>
+     <a href="https://dating-app-mern-2da3b.web.app/">Dating Homemade</a>
     </td>
       <td>
       <a href="https://maleo-recipes-homemade.netlify.app/">
@@ -92,6 +91,16 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
     <td>
      <a href="https://maleo-recipes-homemade.netlify.app/">Recipe App</a>
     </td>   
+    </tr>
+    <tr>
+     <td>
+      <a href="https://short-video-frontend.netlify.app/">
+        <img width="300px" src="assests/Projects/short-video.png">
+      </a>
+    </td>
+    <td>
+     <a href="https://short-video-frontend.netlify.app/">Short Video App</a>
+    </td>
     </tr>
   </tbody>
 </table>
