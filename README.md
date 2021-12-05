@@ -47,13 +47,14 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://maleo-restaurant.netlify.app/">Restaurant E-commerce</a>
        </td>
       <td>
-      <a href="https://popular-social-mern-a9128.web.app/">Popular Social App</a>
+      <a href="https://maleo-dating-app.netlify.app/"></a>
      </td>
       <td>
-        <a href="https://popular-social-mern-a9128.web.app/">
+        <a href="https://popular-social-mern-a9128.web.app/">Popular Social App
           <img width="300px" src="assests/Projects/social1.png">
         </a>
-      </td>  
+      </td>
+      <td> 
     </tr>
      <tr>
       <td>
@@ -80,15 +81,6 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
         <img width="300px" src="https://i.postimg.cc/rwgP1nxN/dating.png">
       </a>
     </td>
-    <td>
-      <a href="https://maleo-dating-app.netlify.app/">Popular Social App</a>
-     </td>
-      <td>
-        <a href="https://popular-social-mern-a9128.web.app/">
-          <img width="300px" src="assests/Projects/social1.png">
-        </a>
-      </td>
-      <td>
         <a href="https://popular-social-mern-a9128.web.app/">Wrapper Example</a>
        </td>    
     </tr>
