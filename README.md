@@ -1,6 +1,6 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![portfolio.png](https://i.postimg.cc/hGRJnbMj/portfolio.png)](https://maleo-portfolio.netlify.app)
+[![portfolio.png](assests/Projects/portfolio.png)](https://maleo-portfolio.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
@@ -47,16 +47,13 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://maleo-restaurant.netlify.app/">Restaurant E-commerce</a>
        </td>
       <td>
-      <a href="https://maleo-dating-app.netlify.app/">Popular Social App</a>
+      <a href="https://popular-social-mern-a9128.web.app/">Popular Social App</a>
      </td>
       <td>
         <a href="https://popular-social-mern-a9128.web.app/">
           <img width="300px" src="assests/Projects/social1.png">
         </a>
-      </td>
-      <td>
-        <a href="https://popular-social-mern-a9128.web.app/">Wrapper Example</a>
-       </td>  
+      </td>  
     </tr>
      <tr>
       <td>
