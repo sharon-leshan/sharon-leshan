@@ -77,12 +77,21 @@ Git Config   10 mins         ▒░░░░░░░░░░░░░░░░
   <tr>
     <tr>
      <td>
-      <a href="">
-        <img width="300px" src="">
+      <a href="https://dating-app-mern-2da3b.web.app/">
+        <img width="300px" src="assests/Projects/dating1.png">
       </a>
     </td>
-        <a href="https://popular-social-mern-a9128.web.app/">Wrapper Example</a>
-       </td>    
+    <td>
+     <a href="https://dating-app-mern-2da3b.web.app/">Dating App</a>
+    </td>
+      <td>
+      <a href="https://maleo-recipes-homemade.netlify.app/">
+        <img width="300px" src="assests/Projects/recipe10.png">
+      </a>
+    </td>
+    <td>
+     <a href="https://maleo-recipes-homemade.netlify.app/">Recipe App</a>
+    </td>   
     </tr>
   </tbody>
 </table>
