@@ -13,8 +13,8 @@
 </h1>
 
 ## I'm Sharon Leshan
-I am a Fullstack Javascript Developer.
-I have specialized in MERN Stack, HTML 5, CSS 3 
+I am a Fullstack Javascript Website Developer.
+I have specialized in MERN(MongoDB, Express, React, Node) Stack, HTML 5, CSS 3, GraphQl
 
 #### Top Technologies
 
