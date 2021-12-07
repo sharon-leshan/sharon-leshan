@@ -71,7 +71,7 @@ JSX          1 hr 47 mins    █░░░░░░░░░░░░░░░░
       </a>
     </td>
     <td>
-      <a href="https://messaging-app-ui.netlify.app/">Messaging UI</a>
+      <a href="https://messaging-app-ui.netlify.app/">Messaging App</a>
      </td>
    </tr>
     <tr>
