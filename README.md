@@ -1,6 +1,6 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![portfolio.png](assests/Projects/portfolio.png)](https://maleo-portfolio.netlify.app)
+[![portfolio.png](assets/Projects/portfolio.png)](https://maleo-portfolio.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
@@ -40,66 +40,94 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
     <tr>
     <td>
         <a href="https://maleo-restaurant.netlify.app/">
-          <img width="300px" src="assests/Projects/restaurant.png">
+          <img width="300px" src="assets/Projects/restaurant.png">
         </a>
       </td>
       <td>
         <a href="https://maleo-restaurant.netlify.app/">Restaurant E-commerce</a>
+        <br />
+        <a href="https://github.com/sharon-leshan/restaurant">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
        </td>
      </td>
       <td>
         <a href="https://popular-social-mern-a9128.web.app/">
-          <img width="300px" src="assests/Projects/social1.png">
+          <img width="300px" src="assets/Projects/social1.png">
         </a>
       </td>
       <td>
       <a href="https://popular-social-mern-a9128.web.app/">Popular Social App</a>
+      <br />
+        <a href="https://github.com/sharon-leshan/popular-social-mern">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
       </td>
     </tr>
      <tr>
       <td>
       <a href="https://shazy-agency-site.netlify.app/">
-        <img width="300px" src="assests/Projects/agency.png">
+        <img width="300px" src="assets/Projects/agency.png">
       </a>
     </td>
     <td>
       <a href="https://shazy-agency-site.netlify.app/">Agency Site</a>
+      <br />
+        <a href="https://github.com/sharon-leshan/agency-site">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
      </td>
     <td>
       <a href="https://messaging-app-ui.netlify.app/">
-        <img width="300px" src="assests/Projects/messaging1.png">
+        <img width="300px" src="assets/Projects/messaging1.png">
       </a>
     </td>
     <td>
       <a href="https://messaging-app-ui.netlify.app/">Messaging App</a>
+      <br />
+        <a href="https://github.com/sharon-leshan/messaging-app-ui">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
      </td>
    </tr>
     <tr>
      <td>
       <a href="https://dating-app-mern-2da3b.web.app/">
-        <img width="300px" src="assests/Projects/dating1.png">
+        <img width="300px" src="assets/Projects/dating1.png">
       </a>
     </td>
     <td>
      <a href="https://dating-app-mern-2da3b.web.app/">Dating App</a>
+     <br />
+        <a href="https://github.com/sharon-leshan/dating-app">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
     </td>
       <td>
       <a href="https://maleo-recipes-homemade.netlify.app/">
-        <img width="300px" src="assests/Projects/recipe10.png">
+        <img width="300px" src="assets/Projects/recipe10.png">
       </a>
     </td>
     <td>
      <a href="https://maleo-recipes-homemade.netlify.app/">Recipe Homemade</a>
+     <br />
+        <a href="https://github.com/sharon-leshan/recipes-homemade">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
     </td>   
     </tr>
     <tr>
      <td>
       <a href="https://short-video-frontend.netlify.app/">
-        <img width="300px" src="assests/Projects/short-video.png">
+        <img width="300px" src="assets/Projects/short-video.png">
       </a>
     </td>
     <td>
      <a href="https://short-video-frontend.netlify.app/">Short Video App</a>
+     <br />
+        <a href="https://github.com/sharon-leshan/short-video-frontend">
+          <img src="assets/icons/github.png" width="30px" height="30px" alt="" />
+        </a>
     </td>
     </tr>
   </tbody>
@@ -114,7 +142,7 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
     <tr>
       <td>
         <a href="https://www.hackerrank.com/certificates/055e1dcd0a66">
-          <img width="300px" src="assests/Certifications/HackerRank%20Js%20Certification.png">
+          <img width="300px" src="assets/Certifications/HackerRank%20Js%20Certification.png">
         </a>
       </td>
       <td>
@@ -122,7 +150,7 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
        </td>
       <td>
         <a href="https://www.hackerrank.com/certificates/8d456c864dfe">
-          <img width="300px" src="assests/Certifications/HackerRank%20Problem%20Solving(Basic).png">
+          <img width="300px" src="assets/Certifications/HackerRank%20Problem%20Solving(Basic).png">
         </a>
       </td>
       <td>
@@ -132,7 +160,7 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
      <tr>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/responsive-web-design">
-          <img width="300px" src="assests/Certifications/freecodecamp%20rwd%20certification.png">
+          <img width="300px" src="assets/Certifications/freecodecamp%20rwd%20certification.png">
         </a>
       </td>
       <td>
@@ -140,7 +168,7 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
        </td>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/javascript-algorithms-and-data-structures">
-          <img width="300px" src="assests/Certifications/freecodecamp%20jads%20certification.png">
+          <img width="300px" src="assets/Certifications/freecodecamp%20jads%20certification.png">
         </a>
       </td>
       <td>
@@ -150,7 +178,7 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
      <tr>
       <td>
         <a href="https://www.freecodecamp.org/certification/maleo/front-end-development-libraries">
-          <img width="300px" src="assests/Certifications/freecodecamp%20frontend%20libs%20certification.png">
+          <img width="300px" src="assets/Certifications/freecodecamp%20frontend%20libs%20certification.png">
         </a>
       </td>
       <td>
@@ -158,7 +186,7 @@ Other        39 mins         ▒░░░░░░░░░░░░░░░░
        </td>
        <td>
         <a href="https://maleo-portfolio.netlify.app/certification">
-          <img width="300px" src="assests/Certifications/TWD%20Workshop.jpeg">
+          <img width="300px" src="assets/Certifications/TWD%20Workshop.jpeg">
         </a>
       </td>
       <td>
