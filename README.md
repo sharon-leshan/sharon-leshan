@@ -25,11 +25,11 @@ I have specialized in MERN(MongoDB, Express, React, Node) Stack, HTML 5, CSS 3, 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   22 hrs 59 mins  ████████████████████▓░░░░   83.01 % 
-CSS          2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Bash         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Other        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript   16 hrs 57 mins  ████████████████████▓░░░░   82.07 % 
+CSS          1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Bash         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 <!--END_SECTION:waka-->
 
