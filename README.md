@@ -194,6 +194,16 @@ JSON         11 mins         ▓░░░░░░░░░░░░░░░░
        </td>
       <td>
     </tr>
+    <tr>
+    <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">
+          <img width="300px" src="assets/Certifications/aws.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">Verify</a>
+       </td>
+    </tr>
   </tbody>
   </table>
  
