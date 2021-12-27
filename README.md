@@ -25,7 +25,7 @@ I have specialized in MERN(MongoDB, Express, React, Node) Stack, HTML 5, CSS 3, 
 
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
