@@ -205,7 +205,7 @@ Markdown     2 mins          ▓░░░░░░░░░░░░░░░░
   </tbody>
   </table>
  
-<h2 align="center">Contact Me</h2>
+<h2 align="center">Contact Me<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  ></h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/sharon-maleo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
