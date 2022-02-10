@@ -230,7 +230,7 @@ Markdown     6 mins          ██░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-
+<!-- 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -249,7 +249,8 @@ Markdown     6 mins          ██░░░░░░░░░░░░░░░
     ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
       ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
+ -->
+<!--  
 ![Twitter Follow](https://img.shields.io/twitter/follow/shazyleshan?style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/sharon-leshan?style=social)
@@ -257,7 +258,7 @@ Markdown     6 mins          ██░░░░░░░░░░░░░░░
 ![GitHub User's stars](https://img.shields.io/github/stars/sharon-leshan?style=social)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/sharon-leshan/sharon-leshan?style=social)
-
+ -->
 
 ## Contribution Graph
 <p>
