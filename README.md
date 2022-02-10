@@ -286,8 +286,9 @@ Markdown     6 mins          ██░░░░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a.svg)](https://wakatime.com/@f6d97325-e131-4c48-9dbc-46089cd0f41a)
 
-### Profile Visit
+<!-- ### Profile Visit -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sharon-leshan.agency-site&left_color=green&right_color=red&theme=dark&title_color=009933)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sharon-leshan.agency-site&left_color=green&right_color=red&theme=dark&title_color=009933) -->
 
+### Unique Visits
 [![Image of https://github.com/sharon-leshan/sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter)
