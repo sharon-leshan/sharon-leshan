@@ -292,3 +292,5 @@ Markdown     6 mins          ██░░░░░░░░░░░░░░░
 
 ### Unique Visits
 [![Image of https://github.com/sharon-leshan/sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter)
+
+### Star my projects [here](https://github.com/sharon-leshan?tab=repositories)
