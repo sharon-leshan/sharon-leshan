@@ -4,17 +4,23 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
+<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
 
 <h1>Check out: 
   <a href="https://maleo-portfolio.netlify.app/" rel="noreferer noopener" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </h1>
-
+ -->
 ## I'm Sharon Leshan
-I am a Fullstack Javascript Website Developer.
-I have specialized in MERN(MongoDB, Express, Reactjs, Nodejs) Stack, HTML 5, CSS 3, GraphQl
+
+A self-driven individual with skills and expertise in developing
+applications and websites. Anxious to put my creativity and passion to work.
+Maximize my ability and skills to stay at the forefront of current trends. I
+wish to work in a team of motivated individuals who are focused on the
+advancement of a company. 
+
+Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, PostgreSQL, TypeScript, Twilio, Firebase, Snipcart, Pusher, CMS, Disqus, Formspree)
 
 #### Top Technologies
 
