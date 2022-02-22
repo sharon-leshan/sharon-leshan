@@ -12,6 +12,8 @@
   </a>
 </h1>
  -->
+ 
+ ### Check out my [portfolio](https://maleo-portfolio.netlify.app)
 ## I'm Sharon Leshan
 
 A self-driven individual with skills and expertise in developing
