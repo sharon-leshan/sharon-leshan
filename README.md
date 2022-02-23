@@ -18,8 +18,7 @@
 
 A self-driven individual with skills and expertise in developing
 applications and websites. Anxious to put my creativity and passion to work.
-Maximize my ability and skills to stay at the forefront of current trends. I
-wish to work in a team of motivated individuals who are focused on the
+Maximize my ability and skills to stay at the forefront of current trends. I work best in a team of motivated individuals who are focused on the
 advancement of a company. 
 
 Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, PostgreSQL, TypeScript, Twilio, Firebase, Snipcart, Pusher, CMS, Disqus, Formspree)
