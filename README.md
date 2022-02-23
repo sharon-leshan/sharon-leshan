@@ -5,11 +5,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
-
-
-  <a href="https://maleo-portfolio.netlify.app/" rel="noreferer noopener" target="_blank"></a>
-
-
  
  ### Check out my [portfolio](https://maleo-portfolio.netlify.app)
 ## I'm Sharon Leshan
