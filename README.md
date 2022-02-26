@@ -25,11 +25,11 @@ Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, Postgr
 ### Top Recent Activity
 <!--START_SECTION:waka-->
 ```text
-JavaScript   48 mins         █████████▓░░░░░░░░░░░░░░░   38.34 % 
-Markdown     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 % 
-Bash         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-TypeScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript   2 hrs 39 mins   ███████████████▒░░░░░░░░░   61.12 % 
+Markdown     32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Bash         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+CSS          20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 <!--END_SECTION:waka-->
 
