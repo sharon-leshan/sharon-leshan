@@ -26,10 +26,7 @@ Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, Postgr
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   15 mins         ███████████████░░░░░░░░░░   60.23 %
-YAML       8 mins          ████████░░░░░░░░░░░░░░░░░   31.41 %
-Go         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
