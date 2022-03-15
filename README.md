@@ -7,6 +7,9 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
  
  ### Check out my [portfolio](https://maleo-portfolio.netlify.app)
+ 
+ [Google](https://g.dev/sharon-maleo)
+ 
 ## I'm Sharon Leshan
 
 A self-driven individual with skills and expertise in developing
