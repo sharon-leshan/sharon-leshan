@@ -4,20 +4,17 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
 
-<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
-
-<h1>Check out: 
-  <a href="https://maleo-portfolio.netlify.app/" rel="noreferer noopener" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</h1>
- -->
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
+ 
+ ### Check out my [portfolio](https://maleo-portfolio.netlify.app)
+ 
+ [Google](https://g.dev/sharon-maleo)
+ 
 ## I'm Sharon Leshan
 
 A self-driven individual with skills and expertise in developing
 applications and websites. Anxious to put my creativity and passion to work.
-Maximize my ability and skills to stay at the forefront of current trends. I
-wish to work in a team of motivated individuals who are focused on the
+Maximize my ability and skills to stay at the forefront of current trends. I work best in a team of motivated individuals who are focused on the
 advancement of a company. 
 
 Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, PostgreSQL, TypeScript, Twilio, Firebase, Snipcart, Pusher, CMS, Disqus, Formspree)
@@ -28,13 +25,19 @@ Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, Postgr
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### Top Recent Activity
+### 📊 Monthly development breakdown
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   2 hrs 32 mins   ███████████████████▒░░░░░   77.75 % 
-CSS          37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+From: 16 April 2022 - To: 16 May 2022
+
+JavaScript   3 hrs 58 mins   ██████████████████░░░░░░░   71.46 %
+TypeScript   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+JSON         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+HTML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
+
 <!--END_SECTION:waka-->
 
 
