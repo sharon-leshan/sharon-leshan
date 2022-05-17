@@ -240,6 +240,16 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
         <a href="https://code.org/congrats?i=_1_a7e6ad3780d6e6e4bbae9992beeaf811">Verify</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://i.postimg.cc/XqbXsCQd/Google-Code-jam.png">
+          <img width="300px" src="assets/Certifications/Google Code-jam.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://i.postimg.cc/XqbXsCQd/Google-Code-jam.png">Verify</a>
+       </td>
+    </tr>
   </tbody>
   </table>
  
