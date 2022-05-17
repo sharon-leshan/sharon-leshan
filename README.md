@@ -233,7 +233,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
        </td>
        <td>
         <a href="https://code.org/congrats?i=_1_a7e6ad3780d6e6e4bbae9992beeaf811">
-          <img width="300px" src="assets/Certifications/hourofcode.png">
+          <img width="300px" src="assets/Certifications/hourofcode.jpg">
         </a>
       </td>
       <td>
