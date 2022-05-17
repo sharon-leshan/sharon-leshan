@@ -231,6 +231,14 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://maleo-portfolio.netlify.app/certification">Verify</a>
        </td>
+       <td>
+        <a href="https://code.org/congrats?i=_1_a7e6ad3780d6e6e4bbae9992beeaf811">
+          <img width="300px" src="assets/Certifications/hourofcode.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://code.org/congrats?i=_1_a7e6ad3780d6e6e4bbae9992beeaf811">Verify</a>
+      </td>
     </tr>
   </tbody>
   </table>
