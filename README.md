@@ -307,6 +307,8 @@ Other        18 mins         ▓░░░░░░░░░░░░░░░░
   [![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=onedark&no-bg=false&count_private=true)](https://github.com/sharon-leshan/sharon-leshan)
 ### Github Stats
 
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sharon-leshan&theme=dark" /></p>      
+
 ![Leshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon-leshan&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 ### Github extra pins
@@ -323,9 +325,11 @@ Other        18 mins         ▓░░░░░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a.svg)](https://wakatime.com/@f6d97325-e131-4c48-9dbc-46089cd0f41a)
 
-<!-- ### Profile Visit -->
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sharon-leshan.agency-site&left_color=green&right_color=red&theme=dark&title_color=009933) -->
+<p>
+  <a href="https://github.com/sharon-leshan?tab=followers">
+    <img src="https://img.shields.io/github/followers/sharon-leshan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
 ### Unique Visits
 [![Image of https://github.com/sharon-leshan/sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter)
