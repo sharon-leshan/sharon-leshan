@@ -334,4 +334,8 @@ Other        20 mins         ▓░░░░░░░░░░░░░░░░
 ### Unique Visits
 [![Image of https://github.com/sharon-leshan/sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter)
 
+### 😂 Here is a random joke for you today: -
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Star my projects [here](https://github.com/sharon-leshan?tab=repositories)
