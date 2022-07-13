@@ -10,7 +10,7 @@
  
  [Google](https://g.dev/sharon-maleo)
  
-## I'm Sharon Leshan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Sharon+Leshan)](https://git.io/typing-svg)
 
 A self-driven individual with skills and expertise in developing
 applications and websites. Anxious to put my creativity and passion to work.
