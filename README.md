@@ -29,12 +29,13 @@ Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, Postgr
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 13 July 2022
+From: 14 June 2022 - To: 14 July 2022
 
-JavaScript   7 hrs 47 mins   █████████████████▓░░░░░░░   70.86 %
-CSS          58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-TypeScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-Other        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JavaScript   8 hrs 38 mins   ██████████████████░░░░░░░   72.34 %
+CSS          58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+TypeScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+JSON         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
