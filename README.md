@@ -221,7 +221,6 @@ PHP          2 mins          ░░░░░░░░░░░░░░░░░
       <td>
         <a href="https://maleo-portfolio.netlify.app/certification">Verify</a>
        </td>
-      <td>
     </tr>
     <tr>
     <td>
@@ -240,6 +239,16 @@ PHP          2 mins          ░░░░░░░░░░░░░░░░░
       <td>
         <a href="https://code.org/congrats?i=_1_a7e6ad3780d6e6e4bbae9992beeaf811">Verify</a>
       </td>
+    </tr>
+    <tr>
+    <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">
+          <img width="300px" src="assets/Certifications/shecodeafrica.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://maleo-portfolio.netlify.app/certification">Verify</a>
+       </td>
     </tr>
   </tbody>
   </table>
