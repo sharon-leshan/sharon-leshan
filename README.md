@@ -2,13 +2,11 @@
 
 [![portfolio.png](assets/Projects/portfolio.png)](https://maleo-portfolio.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ee30ea4-0477-4c66-87c0-7b6737ecc905/deploy-status)](https://app.netlify.com/sites/maleo-portfolio/deploys) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F) 
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaleo-portfolio.netlify.app%2F)
+Check out my [`portfolio`](https://maleo-portfolio.netlify.app)
  
- ### Check out my [portfolio](https://maleo-portfolio.netlify.app)
- 
- [Google](https://g.dev/sharon-maleo)
+<!--  [Google](https://g.dev/sharon-maleo) -->
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Sharon+Leshan)](https://git.io/typing-svg)
 
