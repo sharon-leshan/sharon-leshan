@@ -1,4 +1,4 @@
-## Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" height="20px" alt="hi">,
+## Hi  <img src="./assets/icons/wave.gif" width="20px" height="20px" alt="hi">,
 
 [![portfolio.png](assets/Projects/portfolio.png)](https://maleo-portfolio.netlify.app)
 
@@ -159,7 +159,7 @@ JavaScript   7 mins          ██▒░░░░░░░░░░░░░░
  
  <br />
  
- - Certifications
+## Certifications
  
  <table>
   <tbody>
@@ -248,7 +248,7 @@ JavaScript   7 mins          ██▒░░░░░░░░░░░░░░
   </tbody>
   </table>
  
-<h2 align="center">Contact Me<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  ></h2>
+<h2 align="center">Contact Me<img src="./assets/icons/handshake.gif" height="32px" style="margin-bottom: -5px;"  ></h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/sharon-maleo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -303,13 +303,14 @@ JavaScript   7 mins          ██▒░░░░░░░░░░░░░░
  -->
 
 ## Contribution Graph
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=sharon-leshan&theme=github" alt="Sharon Leshan" />
-</p> &nbsp;
-<br />
+
+[![Leshan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sharon-leshan&bg_color=121112&color=a8a4a7&line=1ca01f&point=dbe1dd&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 🏆 My Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=onedark&no-bg=false&count_private=true)](https://github.com/sharon-leshan/sharon-leshan)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=onedark&no-bg=false&count_private=true)](https://github.com/sharon-leshan/sharon-leshan)
+
 ### Github Stats
 
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sharon-leshan&theme=dark" /></p>      
