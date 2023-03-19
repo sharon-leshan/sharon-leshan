@@ -27,14 +27,14 @@ Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, Postgr
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 16 March 2023
+From: 15 February 2023 - To: 17 March 2023
 
-C          58 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Java       53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-Markdown   29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Python     26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-C++        20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Text       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+C          48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+Java       38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+Markdown   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Python     26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+C++        20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Text       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
