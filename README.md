@@ -27,7 +27,7 @@ Fullstack Developer Skills (React, Gatsby, Node, GraphQL, MongoDB, MySQL, Postgr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 06 May 2024
+From: 08 April 2024 - To: 08 May 2024
 
 No activity tracked
 ```
